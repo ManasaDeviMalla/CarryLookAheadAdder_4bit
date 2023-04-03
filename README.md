@@ -10,9 +10,11 @@ proportional	to	n.
 
 – Generate	the	carry	signals	for	the	various	stages	in	parallel.
 
-Consider	the	i-th	stage	in	the	addition	process.	
+Consider	the	i-th	stage	in	the	addition	process.
+
 • We	define	the	carry	generate	and	carry	propagate	
-functions	as:	
+functions	as:
+
 gi	=	Ai.Bi
 
 pi	=	Ai ⊕	Bi	
